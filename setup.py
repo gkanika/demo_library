@@ -5,9 +5,9 @@ setup(
   version = '0.1',
   description = 'A random test lib',
   author = 'Peter Downs',
-  author_email = 'peterldowns@gmail.com',
-  url = 'https://github.com/peterldowns/mypackage', # use the URL to the github repo
-  download_url = 'https://github.com/peterldowns/mypackage/archive/0.1.tar.gz', # I'll explain this in a second
+  author_email = 'gkanika@vmware.com',
+  url = 'https://github.com/gkanika/demo_library/mypackage', # use the URL to the github repo
+  download_url = 'https://github.com/gkanika/demo_library/mypackage/archive/0.1.tar.gz', # I'll explain this in a second
   keywords = ['testing', 'logging', 'example'], # arbitrary keywords
   classifiers = [],
 )
